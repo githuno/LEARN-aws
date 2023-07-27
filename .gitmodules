@@ -1,0 +1,3 @@
+[submodule "learn-aws-by-coding"]
+	path = learn-aws-by-coding
+	url = https://github.com/githuno/learn-aws-by-coding.git
